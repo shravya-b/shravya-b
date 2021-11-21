@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sravya Bhavaraju</h1>
+<h1 align="center">Hi, I'm Sravya Bhavaraju</h1>
 <h3 align="center">I'm a pre-final year CSE student.</h3>
 
 How to reach me **shravya.b1011@gmail.com**
